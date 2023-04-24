@@ -21,4 +21,10 @@ https://user-images.githubusercontent.com/120593172/233807849-1e5d59b2-2e24-4183
 4. Resync and RUN
 
 
-
+### Tech Stack
+---
+- MVVM
+- Room
+- Retrofit
+- Dagger
+- DataBinding
