@@ -9,4 +9,7 @@ import com.myth.movieapp.data.model.MovieList
 interface TMDBService {
     @GET("movie/popular")
     suspend fun getPopularMovies(@Query("api_key")apiKey:String):Response<MovieList>
+
+    @GET("tv/popular")
+    suspend fun getPopularTvShows(@Query("api_key")apiKey: String):Response<MovieList>
 }
