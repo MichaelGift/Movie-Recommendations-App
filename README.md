@@ -8,6 +8,12 @@ Wondering what to watch? Use this app and stay up to date with the best movie wa
 https://user-images.githubusercontent.com/120593172/233807849-1e5d59b2-2e24-4183-9a8f-403511faec5a.mp4
 
 
+## Coming soon
+---
+- Streaming
+- Push Notification
+- Tv Show Category
+
 ### How to run
 ---
 1. Clone the project to Android Studio
