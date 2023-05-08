@@ -17,6 +17,7 @@ https://user-images.githubusercontent.com/120593172/233807849-1e5d59b2-2e24-4183
 ## In Development
 ---
 Tv Show Category - on Hold-> TMDB is updating their API
+
 Push Notification - 14/05/23
 
 ### How to run
